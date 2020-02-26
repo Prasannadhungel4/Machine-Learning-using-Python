@@ -1,0 +1,55 @@
+html {
+    width: 100%;
+    
+    
+}
+
+body {
+    width: 100%;
+    margin-top: 2%;
+    background: #c91b80;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+
+.login {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+    width: 400px;
+    height: 400px;
+}
+
+form {
+    display: block;
+    
+}
+
+form input {
+    width: 400px;
+    color: #fff;
+    background:#0b2e66 ;
+    margin-bottom: 15px;
+    font-size: 12px;
+    padding-top: 8px;
+    padding-left: 5px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+form button {
+    font-size: 18px;
+    font-weight: 200;
+    background: #3e98e2;
+    color: #fff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 400px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border-width: 0px;
+}
