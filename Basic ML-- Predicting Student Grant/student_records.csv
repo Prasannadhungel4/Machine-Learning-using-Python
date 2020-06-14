@@ -1,0 +1,11 @@
+Name,OverallGrade,Obedient ,ResearchScore,ProjectScore,Recommend,Honest
+Henry,A,y,90,85,Yes,y
+Jones,C,n,85,51,Yes,n
+David,F,y,10,17,No,y
+Hari,E,y,72,80,Yes,y
+Ram,D,n,20,66,No,n
+Shyam,C,y,92,35,No,y
+Prasanna,A,n,87,48,Yes,n
+Madhav,B,n,50,92,No,n
+Sita,C,y,65,83,No,y
+Krishna,D,y,35,40,Yes,y
